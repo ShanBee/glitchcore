@@ -1,0 +1,14 @@
+# Project exclude paths
+/target/
+/.idea/dataSources.local.xml
+/.idea/dataSources/fa4273bd-c566-4c9e-84f9-e87b3cc6d843.xml
+/jars/
+/.gradle/
+/.idea/
+/build/
+/identifier.sqlite
+OneCore.iml
+McTemplate.iml
+TODO.yml
+/logs/
+/src/main/java/io/github/zoltus/onecore/data/configuration/test/
